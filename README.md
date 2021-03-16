@@ -3,7 +3,7 @@ Scalable Bezier curve defined by freely-manipulatable control points, using both
 
 Please watch the provided .mp4 for a short demonstration on using this tool.
 
-  Keyboard Instructions:
+    Keyboard Instructions:
   
     1- Increase subdivision level of blue curve. Cycles from 0-5 before wrapping back.
   
@@ -15,6 +15,6 @@ Please watch the provided .mp4 for a short demonstration on using this tool.
 
     Shift- While the shift key is held, picking will instead move points along the Z axis. The amount of movement is determined by the mouse's horizontal motion while picking.
 
-  Mouse Instructions:
+    Mouse Instructions:
 
     Click and drag: Move points.
