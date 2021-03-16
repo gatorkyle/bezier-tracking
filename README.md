@@ -13,8 +13,8 @@ Please watch the provided .mp4 for a short demonstration on using this tool.
 
     5- Toggles the animation. In this mode, a yellow point will appear and move along the closed Bernstein-Bezier curve in both views, along with unit vectors of the point's tangent, normal, and binormal. Note that picking is NOT enabled while the animation is running.
 
-    Shift- While the shift key is held, picking will instead move points along the Z axis. The amount of movement is determined by the mouse's horizontal motion while picking.
+    Shift- While the shift key is held, picking will instead move control points along the Z axis. The amount of movement is determined by the mouse's horizontal motion while picking.
 
     Mouse Instructions:
 
-    Click and drag: Move points.
+    Click and drag: Move the control points.
