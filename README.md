@@ -1,7 +1,7 @@
 # bezier-tracking
 Scalable Bezier curve defined by freely-manipulatable control points, using both mouse and keyboard input for 3-axis transformations. Created in C++ with OpenGL in Spring of 2021.
 
-Please watch the provided .mp4 for a short demonstration on using this tool.
+![Demo](https://user-images.githubusercontent.com/42983161/116212935-56f44b80-a713-11eb-9c36-bdea91ad3d3c.gif)
 
     Keyboard Instructions:
   
